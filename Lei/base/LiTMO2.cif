@@ -8,6 +8,12 @@
 # contributors.
 #------------------------------------------------------------------------------
 data_LiCo0.333Ni0.333Mn0.333O2
+loop_
+_publ_author_name
+'unpublished yet'
+'see the link :https://github.com/WPEM/Researches/tree/main/Lei' 
+_journal_year                       2024
+_symmetry_space_group_name_H-M      C2/m
 _symmetry_space_group_name_H-M      'R -3 m :H'
 _cell_length_a                      2.8587
 _cell_length_b                      2.8587
