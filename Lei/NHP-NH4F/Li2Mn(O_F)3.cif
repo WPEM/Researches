@@ -10,8 +10,7 @@
 data_Li2MnO3
 loop_
 _publ_author_name
-'unpublished yet'
-'see the link :https://github.com/WPEM/Researches/tree/main/Lei' 
+'Bin Cao'
 _journal_year                       2024
 _symmetry_space_group_name_H-M      C2/m
 _cell_length_a                      4.94018
