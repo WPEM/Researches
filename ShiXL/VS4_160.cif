@@ -1,0 +1,48 @@
+#------------------------------------------------------------------------------
+# $Date: 2024-07-26 11:07:12 (Fri, 26 Jul 2024) $
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+# _author: Cao Bin (HKUST.GZ), bcao686@connect.hkust-gz.edu.cn
+# parsed by WPEM: https://bin-cao.github.io/caobin/-wpem
+# All data on this site have been placed in the public domain by the
+# contributors.
+#------------------------------------------------------------------------------
+data_9009933
+loop_
+_publ_author_name
+'Bin Cao'
+_journal_year                    2024
+_chemical_formula_sum            'S4 V'
+_chemical_name_mineral           Patronite
+_space_group_IT_number           15
+_symmetry_space_group_name_Hall  '-I 2yc'
+_symmetry_space_group_name_H-M   'I 1 2/c 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 100.72077
+_cell_angle_gamma                90
+_cell_length_a                   6.78209
+_cell_length_b                   10.51965
+_cell_length_c                   12.34683
+_cell_volume                     865.512
+_cod_original_formula_sum        'V S4'
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+1/2+x,1/2+y,1/2+z
+x,-y,1/2+z
+1/2+x,1/2-y,+z
+-x,y,1/2-z
+1/2-x,1/2+y,-z
+-x,-y,-z
+1/2-x,1/2-y,1/2-z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+V 0.00000 0.00097 0.11721 0.00887
+S1 0.76286 0.09812 0.21796 0.01267
+S2 0.76286 0.09641 0.23381 0.01393
+S3 0.27806 0.05000 0.02812 0.01267
+S4 0.05296 0.18281 0.00428 0.01267
