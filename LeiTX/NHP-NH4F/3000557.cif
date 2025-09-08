@@ -7,7 +7,7 @@
 # All data on this site have been placed in the public domain by the
 # contributors.
 #------------------------------------------------------------------------------
-data_Li2MnO3
+data_3000557
 loop_
 _publ_author_name
 'Bin Cao'

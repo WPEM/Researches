@@ -1,0 +1,74 @@
+#------------------------------------------------------------------------------
+# $Date: 2025-09-8 14:10:03 (Mon, 8 Sep 2025) $
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+# _author: Cao Bin (HKUST.GZ), bcao686@connect.hkust-gz.edu.cn
+# parsed by WPEM: https://bin-cao.github.io/caobin/-wpem
+# All data on this site have been placed in the public domain by the
+# contributors.
+#------------------------------------------------------------------------------
+
+
+data_3000617
+loop_
+_publ_author_name
+'Bin Cao'
+_publ_section_title              'N/A'
+_journal_name_full               'N/A'
+_journal_page_first              'N/A'
+_journal_page_last               'N/A'
+_journal_volume                  'N/A'
+_journal_year                    2025
+_chemical_formula_structural     'V2 S9'
+_chemical_formula_sum            'V2 S9'
+_space_group_IT_number           176
+_space_group_name_Hall           '-P 6c'
+_space_group_name_H-M_alt        'P 63/m'
+_symmetry_cell_setting           hexagonal
+_symmetry_Int_Tables_number      176
+_symmetry_space_group_name_Hall  '-P 6c'
+_symmetry_space_group_name_H-M   'P 63/m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                120
+_cell_formula_units_Z            2
+_cell_length_a                   6.38055
+_cell_length_b                   6.38055
+_cell_length_c                   15.33619
+_cell_volume                     540.7099
+_exptl_crystal_density_meas      2.08
+_cod_original_formula_sum        'V2 S9'
+_cod_database_code               'N/A'
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x-y,z
+y-x,-x,z
+-x,-y,1/2+z
+y,y-x,1/2+z
+x-y,x,1/2+z
+-x,-y,-z
+y,y-x,-z
+x-y,x,-z
+x,y,1/2-z
+-y,x-y,1/2-z
+y-x,-x,1/2-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+_atom_site_calc_flag
+V1 V 4 f 0.3333 0.6667 0.173 1. 0 d
+S1 S 6 h 0.315 0.055 0.25 1. 0 d
+S2 S 12 i 0.36 0.285 0.07 1. 0 d
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V0 0.000
+S2- -2.000
